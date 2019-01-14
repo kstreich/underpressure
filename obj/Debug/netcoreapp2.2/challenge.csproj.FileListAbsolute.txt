@@ -1,0 +1,11 @@
+/Users/kim/source/challenge/bin/Debug/netcoreapp2.2/challenge.deps.json
+/Users/kim/source/challenge/bin/Debug/netcoreapp2.2/challenge.runtimeconfig.json
+/Users/kim/source/challenge/bin/Debug/netcoreapp2.2/challenge.runtimeconfig.dev.json
+/Users/kim/source/challenge/bin/Debug/netcoreapp2.2/challenge.dll
+/Users/kim/source/challenge/bin/Debug/netcoreapp2.2/challenge.pdb
+/Users/kim/source/challenge/obj/Debug/netcoreapp2.2/challenge.csprojAssemblyReference.cache
+/Users/kim/source/challenge/obj/Debug/netcoreapp2.2/challenge.csproj.CoreCompileInputs.cache
+/Users/kim/source/challenge/obj/Debug/netcoreapp2.2/challenge.AssemblyInfoInputs.cache
+/Users/kim/source/challenge/obj/Debug/netcoreapp2.2/challenge.AssemblyInfo.cs
+/Users/kim/source/challenge/obj/Debug/netcoreapp2.2/challenge.dll
+/Users/kim/source/challenge/obj/Debug/netcoreapp2.2/challenge.pdb
